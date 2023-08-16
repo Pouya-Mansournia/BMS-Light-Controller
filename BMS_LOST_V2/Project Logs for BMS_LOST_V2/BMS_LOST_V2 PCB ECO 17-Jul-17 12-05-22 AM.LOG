@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=RFU Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=VCC Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=VCC Pin=U1-6
+Removed Pin From Net: NetName=XT1 Pin=U1-7
+Removed Pin From Net: NetName=XT2 Pin=U1-8
+Removed Pin From Net: NetName=MOSI Pin=U1-15
+Removed Pin From Net: NetName=MISO Pin=U1-16
+Removed Pin From Net: NetName=SCK Pin=U1-17
+Removed Pin From Net: NetName=AVCC Pin=U1-18
+Removed Pin From Net: NetName=GND Pin=U1-21
+Removed Pin From Net: NetName=RE2 Pin=U1-25
+Removed Pin From Net: NetName=RE1 Pin=U1-26
+Removed Pin From Net: NetName=RST Pin=U1-29
+Removed Pin From Net: NetName=W_TX Pin=U1-30
+Removed Pin From Net: NetName=W_RX Pin=U1-31
+Removed Member From Class: ClassName=BMS_LOST_V2 Member=U1
+Added Component: Designator=U8(64A_L)
+Added Pin To Net: NetName=RST Pin=U8-20
+Added Pin To Net: NetName=VCC Pin=U8-21
+Added Pin To Net: NetName=GND Pin=U8-22
+Added Pin To Net: NetName=XT2 Pin=U8-23
+Added Pin To Net: NetName=XT1 Pin=U8-24
+Added Pin To Net: NetName=VCC Pin=U8-52
+Added Pin To Net: NetName=GND Pin=U8-53
+Added Pin To Net: NetName=GND Pin=U8-63
+Added Pin To Net: NetName=AVCC Pin=U8-64
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component U8 ATmega64-16AU

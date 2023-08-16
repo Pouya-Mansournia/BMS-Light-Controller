@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Pin To Net: NetName=SCK Pin=U1-17
+Added Pin To Net: NetName=RST Pin=U1-29
+Added Pin To Net: NetName=XT1 Pin=C4-1
+Added Pin To Net: NetName=XT1 Pin=U1-7
+Added Pin To Net: NetName=XT1 Pin=Y1-2
+Added Net: Name=XT1
+Added Pin To Net: NetName=XT2 Pin=C5-2
+Added Pin To Net: NetName=XT2 Pin=U1-8
+Added Pin To Net: NetName=XT2 Pin=Y1-1
+Added Net: Name=XT2

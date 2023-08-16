@@ -1,0 +1,9 @@
+Added Component: Designator=RGB1(LED_RGB)
+Added Pin To Net: NetName=NetR12_1 Pin=RGB1-1
+Added Pin To Net: NetName=VCC Pin=RGB1-2
+Added Pin To Net: NetName=NetR13_1 Pin=RGB1-3
+Added Pin To Net: NetName=NetR14_1 Pin=RGB1-4
+Added Pin To Net: NetName=RE1 Pin=U1-25
+Added Pin To Net: NetName=RE2 Pin=U1-26
+Added Member To Class: ClassName=BMS_LOST_V1 Member=Component RGB1 RGB_LED
+Added Room: Name=BMS_LOST_V1

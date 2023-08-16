@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=RE1 Pin=U8-47
+Added Component: Designator=C3(Cap0805)
+Added Component: Designator=HC(HC05_Bluetooth)
+Added Component: Designator=PJ(PJ1117s)
+Added Component: Designator=R1(R0805)
+Added Pin To Net: NetName=VCC3.3 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=B_TX Pin=HC-1
+Added Pin To Net: NetName=B_RX Pin=HC-2
+Added Pin To Net: NetName=B_RST Pin=HC-11
+Added Pin To Net: NetName=VCC+3.3V Pin=HC-12
+Added Pin To Net: NetName=GND Pin=HC-13
+Added Pin To Net: NetName=GND Pin=HC-21
+Added Pin To Net: NetName=GND Pin=HC-22
+Added Pin To Net: NetName=LED_BL Pin=HC-31
+Added Pin To Net: NetName=NetHC_34 Pin=HC-34
+Added Pin To Net: NetName=GND Pin=PJ-1
+Added Pin To Net: NetName=VCC3.3 Pin=PJ-2
+Added Pin To Net: NetName=VCC Pin=PJ-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetHC_34 Pin=R1-2
+Added Pin To Net: NetName=RE1 Pin=U8-17
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component C3 100nf
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component HC HC05_Bluetooth
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component PJ PJ1117_3.3V
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component R1 Res 0805
+Added Room: Name=BMS_LOST_V2

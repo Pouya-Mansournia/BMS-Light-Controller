@@ -1,0 +1,13 @@
+Added Component: Designator=DS1(LED3MM)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R12(R0805)
+Added Pin To Net: NetName=VCC Pin=DS1-A
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetHC_34 Pin=R1-2
+Added Pin To Net: NetName=NetDS1_K Pin=DS1-K
+Added Pin To Net: NetName=NetDS1_K Pin=R12-1
+Added Net: Name=NetDS1_K
+Added Member To Class: ClassName=BMS_LOST_V1 Member=Component DS1 LED1
+Added Member To Class: ClassName=BMS_LOST_V1 Member=Component R1 Res 0805
+Added Member To Class: ClassName=BMS_LOST_V1 Member=Component R12 330
+Added Room: Name=BMS_LOST_V1

@@ -1,0 +1,31 @@
+Added Component: Designator=HC(HC05_Bluetooth)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R12(R0805)
+Added Component: Designator=R13(R0805)
+Added Component: Designator=R14(R0805)
+Added Component: Designator=RGB1(LED_RGB)
+Added Pin To Net: NetName=B_TX Pin=HC-1
+Added Pin To Net: NetName=B_RX Pin=HC-2
+Added Pin To Net: NetName=B_RST Pin=HC-11
+Added Pin To Net: NetName=VCC+3.3V Pin=HC-12
+Added Pin To Net: NetName=GND Pin=HC-13
+Added Pin To Net: NetName=GND Pin=HC-21
+Added Pin To Net: NetName=GND Pin=HC-22
+Added Pin To Net: NetName=LED_BL Pin=HC-31
+Added Pin To Net: NetName=NetHC_34 Pin=HC-34
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetHC_34 Pin=R1-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR12_1 Pin=RGB1-1
+Added Pin To Net: NetName=VCC Pin=RGB1-2
+Added Pin To Net: NetName=NetR13_1 Pin=RGB1-3
+Added Pin To Net: NetName=NetR14_1 Pin=RGB1-4
+Added Member To Class: ClassName=BMS_LOST_V1 Member=Component HC HC05_Bluetooth
+Added Member To Class: ClassName=BMS_LOST_V1 Member=Component R1 Res 0805
+Added Member To Class: ClassName=BMS_LOST_V1 Member=Component R12 330
+Added Member To Class: ClassName=BMS_LOST_V1 Member=Component R13 330
+Added Member To Class: ClassName=BMS_LOST_V1 Member=Component R14 330
+Added Member To Class: ClassName=BMS_LOST_V1 Member=Component RGB1 RGB_LED
+Added Room: Name=BMS_LOST_V1

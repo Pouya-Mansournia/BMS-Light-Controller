@@ -1,0 +1,12 @@
+Added Component: Designator=D1(Diod-1A-SMD)
+Added Component: Designator=D2(Diod-1A-SMD)
+Added Component: Designator=D3(Diod-1A-SMD)
+Added Component: Designator=HC(HC05_Bluetooth)
+Added Component: Designator=HLK(HLK)
+Added Component: Designator=K1(RelayMilionMiniS-Z)
+Added Component: Designator=K2(RelayMilionMiniS-Z)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=U1(32A_N)
+Added Class: Name=BMS_LOST_V1
+Added Room: Name=BMS_LOST_V1

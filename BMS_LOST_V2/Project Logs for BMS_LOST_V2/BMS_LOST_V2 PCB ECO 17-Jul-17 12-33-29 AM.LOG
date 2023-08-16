@@ -1,0 +1,19 @@
+Added Component: Designator=HC(HC05_Bluetooth)
+Added Component: Designator=PJ(PJ1117s)
+Added Pin To Net: NetName=B_TX Pin=HC-1
+Added Pin To Net: NetName=B_RX Pin=HC-2
+Added Pin To Net: NetName=B_RST Pin=HC-11
+Added Pin To Net: NetName=VCC+3.3V Pin=HC-12
+Added Pin To Net: NetName=GND Pin=HC-13
+Added Pin To Net: NetName=GND Pin=HC-21
+Added Pin To Net: NetName=GND Pin=HC-22
+Added Pin To Net: NetName=LED_BL Pin=HC-31
+Added Pin To Net: NetName=NetHC_34 Pin=HC-34
+Added Pin To Net: NetName=MISO Pin=HLK-20
+Added Pin To Net: NetName=MOSI Pin=HLK-21
+Added Pin To Net: NetName=GND Pin=PJ-1
+Added Pin To Net: NetName=VCC3.3 Pin=PJ-2
+Added Pin To Net: NetName=VCC Pin=PJ-3
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component HC HC05_Bluetooth
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component PJ PJ1117_3.3V
+Added Room: Name=BMS_LOST_V2

@@ -1,0 +1,145 @@
+Added Component: Designator=C1(Cap0805)
+Added Component: Designator=C2(2220)
+Added Component: Designator=C3(Cap0805)
+Added Component: Designator=C4(Cap0805)
+Added Component: Designator=C5(Cap0805)
+Added Component: Designator=C6(Cap0805)
+Added Component: Designator=D1(Diod-1A-SMD)
+Added Component: Designator=D2(Diod-1A-SMD)
+Added Component: Designator=D3(Diod-1A-SMD)
+Added Component: Designator=DS1(LED3MM)
+Added Component: Designator=HC(HC05_Bluetooth)
+Added Component: Designator=HLK(HLK)
+Added Component: Designator=I1(Indicator0805)
+Added Component: Designator=K1(RelayMilionMiniS-Z)
+Added Component: Designator=K2(RelayMilionMiniS-Z)
+Added Component: Designator=PJ(PJ1117s)
+Added Component: Designator=PR(Programmer)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=R4(R0805)
+Added Component: Designator=R8(R0805)
+Added Component: Designator=R9(R0805)
+Added Component: Designator=R12(R0805)
+Added Component: Designator=U1(32A_N)
+Added Component: Designator=Y1(CrystallB)
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC3.3 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=XT1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=XT2 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=AVCC Pin=C6-2
+Added Pin To Net: NetName=VDD Pin=D1-A
+Added Pin To Net: NetName=VCC Pin=D1-K
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=VCC Pin=D2-K
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=VCC Pin=D3-K
+Added Pin To Net: NetName=VCC Pin=DS1-A
+Added Pin To Net: NetName=NetDS1_K Pin=DS1-K
+Added Pin To Net: NetName=B_TX Pin=HC-1
+Added Pin To Net: NetName=B_RX Pin=HC-2
+Added Pin To Net: NetName=B_RST Pin=HC-11
+Added Pin To Net: NetName=VCC+3.3V Pin=HC-12
+Added Pin To Net: NetName=GND Pin=HC-13
+Added Pin To Net: NetName=GND Pin=HC-21
+Added Pin To Net: NetName=GND Pin=HC-22
+Added Pin To Net: NetName=LED_BL Pin=HC-31
+Added Pin To Net: NetName=NetHC_34 Pin=HC-34
+Added Pin To Net: NetName=VCC Pin=HLK-1
+Added Pin To Net: NetName=GND Pin=HLK-2
+Added Pin To Net: NetName=W_RST Pin=HLK-10
+Added Pin To Net: NetName=W_RX Pin=HLK-20
+Added Pin To Net: NetName=W_TX Pin=HLK-21
+Added Pin To Net: NetName=VCC Pin=HLK-28
+Added Pin To Net: NetName=AVCC Pin=I1-1
+Added Pin To Net: NetName=VCC Pin=I1-2
+Added Pin To Net: NetName=VCC Pin=K1-1
+Added Pin To Net: NetName=PHASE1 Pin=K1-3
+Added Pin To Net: NetName=NetD3_A Pin=K1-4
+Added Pin To Net: NetName=PHASEN1 Pin=K1-5
+Added Pin To Net: NetName=VCC Pin=K2-1
+Added Pin To Net: NetName=PHASE2 Pin=K2-3
+Added Pin To Net: NetName=NetD2_A Pin=K2-4
+Added Pin To Net: NetName=PHASEN2 Pin=K2-5
+Added Pin To Net: NetName=GND Pin=PJ-1
+Added Pin To Net: NetName=VCC3.3 Pin=PJ-2
+Added Pin To Net: NetName=VCC Pin=PJ-3
+Added Pin To Net: NetName=MOSI Pin=PR-1
+Added Pin To Net: NetName=MISO Pin=PR-2
+Added Pin To Net: NetName=SCK Pin=PR-3
+Added Pin To Net: NetName=RST Pin=PR-4
+Added Pin To Net: NetName=GND Pin=PR-6
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetD3_A Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetD2_A Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetHC_34 Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=W_RST Pin=R2-2
+Added Pin To Net: NetName=RST Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R8-1
+Added Pin To Net: NetName=RE1 Pin=R8-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R9-1
+Added Pin To Net: NetName=RE2 Pin=R9-2
+Added Pin To Net: NetName=NetDS1_K Pin=R12-1
+Added Pin To Net: NetName=RFU Pin=R12-2
+Added Pin To Net: NetName=RFU Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=VCC Pin=U1-6
+Added Pin To Net: NetName=XT1 Pin=U1-7
+Added Pin To Net: NetName=XT2 Pin=U1-8
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Pin To Net: NetName=SCK Pin=U1-17
+Added Pin To Net: NetName=AVCC Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=RE2 Pin=U1-25
+Added Pin To Net: NetName=RE1 Pin=U1-26
+Added Pin To Net: NetName=RST Pin=U1-29
+Added Pin To Net: NetName=W_TX Pin=U1-30
+Added Pin To Net: NetName=W_RX Pin=U1-31
+Added Pin To Net: NetName=XT2 Pin=Y1-1
+Added Pin To Net: NetName=XT1 Pin=Y1-2
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component C1 100nf
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component C2 Cap_4mm
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component C3 100nf
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component C4 CAP 805
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component C5 CAP 805
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component C6 Cap0805
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component D1 SS34
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component D2 SS34
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component D3 SS34
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component DS1 LED1
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component HC HC05_Bluetooth
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component HLK HLK_WifiModule
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component I1 Indicator100uH
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component K1 Relay
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component K2 Relay
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component PJ PJ1117_3.3V
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component PR Programmer
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component Q1 BC817
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component Q2 BC817
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component R1 Res 0805
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component R2 Res 0805
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component R4 Res 0805
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component R8 Res 0805
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component R9 Res 0805
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component R12 330
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component U1 ATmega8-16AU
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component Y1 Xtal
+Added Room: Name=BMS_LOST_V2

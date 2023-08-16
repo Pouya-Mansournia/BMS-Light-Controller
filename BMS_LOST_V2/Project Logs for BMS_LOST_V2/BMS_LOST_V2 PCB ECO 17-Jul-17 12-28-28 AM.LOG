@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator= NewDesignator=K1
+Change Component Designator: OldDesignator= NewDesignator=K2
+Added Pin To Net: NetName=PHASE1 Pin=K1-3
+Added Pin To Net: NetName=PHASEN1 Pin=K1-5
+Added Pin To Net: NetName=PHASE2 Pin=K2-3
+Added Pin To Net: NetName=PHASEN2 Pin=K2-5
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component K1 Relay
+Added Member To Class: ClassName=BMS_LOST_V2 Member=Component K2 Relay
